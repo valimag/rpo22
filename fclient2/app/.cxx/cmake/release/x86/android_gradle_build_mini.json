@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/valimagomedov/Projects/rpo22/fclient2/app/src/main/cpp/CMakeLists.txt",
+    "/Users/valimagomedov/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/valimagomedov/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/valimagomedov/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/valimagomedov/Projects/rpo22/fclient2/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/valimagomedov/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/valimagomedov/Projects/rpo22/fclient2/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/valimagomedov/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/valimagomedov/Projects/rpo22/fclient2/app/.cxx/cmake/release/x86\" native-lib",
+      "abi": "x86",
+      "output": "/Users/valimagomedov/Projects/rpo22/fclient2/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so",
+      "runtimeFiles": [
+        "/Users/valimagomedov/Projects/rpo22/libs/mbedtls/build/x86/library/libmbedcrypto.so"
+      ]
+    }
+  }
+}

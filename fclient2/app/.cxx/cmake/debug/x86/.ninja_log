@@ -1,0 +1,13 @@
+# ninja log v5
+0	5122	1615494763	CMakeFiles/native-lib.dir/native-lib.cpp.o	66e4ae468250bc13
+5123	5402	1615494764	/Users/valimagomedov/Projects/rpo22/fclient2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	aa19648afeff9388
+2	6075	1615535967	CMakeFiles/native-lib.dir/native-lib.cpp.o	66e4ae468250bc13
+6075	6370	1615535968	/Users/valimagomedov/Projects/rpo22/fclient2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	aa19648afeff9388
+3	14126	1615822591	CMakeFiles/native-lib.dir/native-lib.cpp.o	da5f085e7b0b0753
+14127	14589	1615822591	/Users/valimagomedov/Projects/rpo22/fclient2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	34447d81ee28f6e4
+3	12492	1615822836	CMakeFiles/native-lib.dir/native-lib.cpp.o	da5f085e7b0b0753
+12493	12928	1615822836	/Users/valimagomedov/Projects/rpo22/fclient2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	34447d81ee28f6e4
+5	10373	1619708649	CMakeFiles/native-lib.dir/native-lib.cpp.o	da5f085e7b0b0753
+10374	11534	1619708650	/Users/valimagomedov/Projects/rpo22/fclient2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	34447d81ee28f6e4
+5	10547	1620981162	CMakeFiles/native-lib.dir/native-lib.cpp.o	da5f085e7b0b0753
+10549	11058	1620981162	/Users/valimagomedov/Projects/rpo22/fclient2/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	34447d81ee28f6e4

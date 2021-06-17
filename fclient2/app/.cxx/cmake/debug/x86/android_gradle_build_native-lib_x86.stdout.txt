@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/valimagomedov/Projects/rpo22/fclient2/app/.cxx/cmake/debug/x86'
+ninja: no work to do.
