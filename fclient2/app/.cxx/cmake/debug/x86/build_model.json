@@ -171,7 +171,7 @@
       "project": {
         "compilerSettingsCacheFolder": "/Users/valimagomedov/Projects/rpo22/fclient2/.cxx",
         "cxxFolder": "/Users/valimagomedov/Projects/rpo22/fclient2/.cxx",
-        "ideBuildTargetAbi": "x86",
+        "ideBuildTargetAbi": "x86,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
